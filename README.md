@@ -6,4 +6,5 @@ I'm Favour Badakin 😊</h1>
 </div>
 
 • ⚡️ I'm always learning **JavaScript.**
+• ⚛️ I'm in a sweet relationship with **ReactJS** 😍
 
