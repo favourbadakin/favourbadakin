@@ -5,6 +5,6 @@ I'm Favour Badakin 😊</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-• ⚡️ I'm always learning **JavaScript.**
+• ⚡️ I'm always learning **JavaScript.** <br>
 • ⚛️ I'm in a sweet relationship with **ReactJS** 😍
 
