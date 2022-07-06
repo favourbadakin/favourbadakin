@@ -4,4 +4,4 @@ I'm Favour Badakin 😊</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-- ⚡️ I'm always learning __JavaScript.__
+- ⚡️ I'm always learning --JavaScript.--
