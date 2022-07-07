@@ -5,7 +5,8 @@ I'm Favour Badakin 😊</h1>
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952e60d84a135a3bc152d07b68121d0652611681c3b&rid=giphy.gif&ct=g" width="450"/></div>
 
 • ⚡️ I'm always learning **JavaScript.** <br>
-• ⚛️ I'm in a sweet relationship with **ReactJS** 😍
+• ⚛️ I'm in a sweet relationship with **ReactJS** 😍<br>
+• 💼 I’m looking to collaborate on any cool project you think we can work on together
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -20,13 +21,12 @@ rel="noreferrer">
 width="40"
 </a> 
 <a href="https://tailwindcss.com"
-target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="bootstrap" width="40" height="40"/>
+target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/>
 <a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-</a>
-<a href="https://www.figma.com/" target="_blank"
-rel="noreferrer">
+</a><br>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
 alt="figma" width="40" height="40" >
 </a>
