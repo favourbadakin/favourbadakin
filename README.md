@@ -1,6 +1,6 @@
 <h1 align="center">Hi
 I'm Favour Badakin 😊</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Front-End Developer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -19,19 +19,21 @@ target="_blank"
 rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript"
 width="40"
-</a>
-<a href="https://reactjs.org/"
-target="_blank"
-rel="noreferrer">
+</a> 
+<a href="https://tailwindcss.com"
+target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="bootstrap" width="40" height="40"/>
+<a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
 </a>
-<a href="https://tailwindcss.com"
-target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="bootstrap" width="40"
-height="40"/>
-<a>
 <a href="https://www.figma.com/"target="_blank"
 rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
 alt="figma" width="40" height="40" >
 </a>
+
+<a href="https://www.w3schools.com/git/"
+target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"   alt="git-logo" width="40" height="40"/>
+<a>
+
 </p>
