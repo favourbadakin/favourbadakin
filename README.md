@@ -30,7 +30,6 @@ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikiped
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
 alt="figma" width="40" height="40" >
 </a>
-
 <a href="https://www.w3schools.com/git/"
 target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"   alt="git-logo" width="40" height="40"/>
 <a>
