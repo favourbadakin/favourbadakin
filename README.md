@@ -4,7 +4,7 @@ I'm Favour 😊</h1>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952e60d84a135a3bc152d07b68121d0652611681c3b&rid=giphy.gif&ct=g" width="450"/></div>
 
-• ⚡️ I'm always learning **JavaScript.** <br>
+• ⚡️ I'm always learning **JavaScript.**  <br>
 
 • ⚛️ I'm in a sweet relationship with **ReactJS** 😍<br>
 
