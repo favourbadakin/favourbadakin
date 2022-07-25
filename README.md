@@ -33,8 +33,11 @@ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikiped
 alt="figma" width="40" height="40" >
 </a>
 <a href="https://www.w3schools.com/git/"
-target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"   alt="git-logo" width="40" height="40"/>
+target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git-logo" width="40" height="40"/>
 <a>
 
 
 </p>
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=favourbadakin&show_icons=true)<br>
+[![hits](https://hits.deltapapa.io/github/favourbadakin/hits-badge.svg)](https://hits.deltapapa.io)
