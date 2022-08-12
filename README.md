@@ -23,7 +23,7 @@ target="_blank"
 rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript"
 width="40">
-</a> 
+</a>   
 <a href="https://tailwindcss.com"
 target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/>
 <a>
