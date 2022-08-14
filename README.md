@@ -6,9 +6,7 @@ I'm Favour 😊</h1>
 
 • ⚡️ I'm always learning **JavaScript.**  <br>
 
-• ⚛️ I'm in a sweet relationship with **ReactJS** 😍<br> 
-
-• 🌱 I'm a tech content creator <br> 
+• 🌱 I'm a Tech content creator <br> 
 
 • 💼 I’m looking to collaborate on any cool project you think we can work on together
 
