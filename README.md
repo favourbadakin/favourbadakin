@@ -2,7 +2,7 @@
 I'm Favour 😊</h1> 
 <h3 align="center">I am a Front-End Web Developer</h3>
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952e60d84a135a3bc152d07b68121d0652611681c3b&rid=giphy.gif&ct=g" width="350"/></div>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952e60d84a135a3bc152d07b68121d0652611681c3b&rid=giphy.gif&ct=g" width="320"/></div>
 
 • ⚡️ I'm always learning **JavaScript.**  <br>
 
