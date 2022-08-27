@@ -1,8 +1,15 @@
 name: WakaTime status update
 
-on:
-  schedule:
+#on:
+ # schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
+  #  - cron: "1 0 * * *"
+    
+    
+on:
+  push:
+    branches: [master]
+  schedule:
     - cron: "1 0 * * *"
 
 jobs:
