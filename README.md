@@ -46,7 +46,7 @@ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikiped
 
 <img
   src="https://github.com/favourbadakin/favourbadakin/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="my WakaTime Activity"
 />
 
 
