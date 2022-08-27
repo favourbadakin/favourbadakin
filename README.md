@@ -43,11 +43,11 @@ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikiped
 [![hits](https://hits.deltapapa.io/github/favourbadakin/favourbadakin.svg)](https://hits.deltapapa.io)
 
 
-  <!--START_SECTION:waka--><!--END_SECTION:waka-->
-
+  
 <img
-  src="https://github.com/favourbadakin/favourbadakin/blob/main/images/stat.svg"
+  src="https://github.com/favourbadakin/favourbadakin/blob/master/images/stat.svg"
   alt="my WakaTime Activity"
 />
 
+ 
 
