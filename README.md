@@ -39,15 +39,17 @@ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikiped
 
 </p>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=favourbadakin&show_icons=true)<br>
-[![hits](https://hits.deltapapa.io/github/favourbadakin/favourbadakin.svg)](https://hits.deltapapa.io)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=favourbadakin&show_icons=true)
+[![Profile Views](https://hits.deltapapa.io/github/favourbadakin/favourbadakin.svg)](https://hits.deltapapa.io)
 
+[![wakatime](https://wakatime.com/badge/user/801bde45-4190-41cd-9337-222e905dad05.svg)](https://wakatime.com/@801bde45-4190-41cd-9337-222e905dad05)
 
-  
+ 
 <img
   src="https://github.com/favourbadakin/favourbadakin/blob/master/images/stat.svg"
   alt="my WakaTime Activity"
 />
+
 
  
 
