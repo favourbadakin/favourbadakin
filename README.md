@@ -48,9 +48,10 @@ target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikiped
   alt="my WakaTime Activity"
 />
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=favourbadakin&show_icons=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=favourbadakin&show_icons=true&locale=en&layout=compact" alt="favourbadakin" /></p><br>
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=favourbadakin&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=favourbadakin&" alt="favourbadakin" /></p>
 
