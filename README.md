@@ -1,7 +1,11 @@
 <h1 align="center">Hi 
 I'm Favour 😊</h1> 
-<h3 align="center">I am a Front-End Web Developer</h3>
-<div id="header" align="center">
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=BBBBBB&width=435&lines=Front-End+Web+Developer." alt="Typing SVG" /></a>
+</h1>
+
+
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952e60d84a135a3bc152d07b68121d0652611681c3b&rid=giphy.gif&ct=g" width="350"/></div>
 
 • ⚡️ I'm always learning **JavaScript.**  <br>
