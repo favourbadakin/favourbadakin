@@ -10,9 +10,9 @@ I'm Favour 😊</h1>
 
 • ⚡️ I'm always learning **JavaScript.**  <br>
 
-• 🌱 I'm a Tech content creator <br> 
+• 🌱 I'm a Tech content creator. <br> 
 
-• 💼 I’m looking to collaborate on any cool project you think we can work on together
+• 💼 I’m looking to collaborate on any cool project you think we can work on together.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
