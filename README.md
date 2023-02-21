@@ -10,6 +10,8 @@ I'm Favour 😊</h1>
 
 • ⚡️ I'm always learning **JavaScript.**  <br>
 
+• 😍 I love exploring APIs.**  <br>
+
 • 🌱 I'm a Tech content creator. <br> 
 
 • 💼 I’m looking to collaborate on any cool project you think we can work on together.
